@@ -23,3 +23,10 @@ debounceRefSecond();
 //output
 hello
 world
+
+
+The most common applications are listed below
+
+1>Analytics (for tooltips mainly on hover actions)
+2>Limiting API call (Search Bar)
+3>Generate Report
